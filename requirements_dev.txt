@@ -1,0 +1,8 @@
+pip
+setuptools
+wheel
+bump2version
+ruff
+black
+pytest
+-r requirements.txt

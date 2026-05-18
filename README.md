@@ -15,6 +15,9 @@ It features an **interactive Dashboard** built with Streamlit.
 
 The goal of this project is to analyze a dataset of women's clothing reviews to identify key drivers of customer satisfaction. The tool allows for raw data cleaning, demographic visualization, and sentiment analysis (using VADER) to correlate written opinions with numerical ratings.
 
+<img width="1182" height="798" alt="image" src="https://github.com/user-attachments/assets/767912e7-fdc1-4bc1-bddf-67b1ac0857f4" />
+
+
 ### 🌟 Key Features
 
 * **Data Ingestion & Cleaning (`DataLoader`)**:
